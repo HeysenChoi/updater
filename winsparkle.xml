@@ -10,7 +10,7 @@
       <sparkle:releaseNotesLink>http://winsparkle.org/example/relnotes.html</sparkle:releaseNotesLink>
       <sparkle:installerArguments>SILENT</sparkle:installerArguments>
       <pubDate>Tue, 15 Sep 2012 18:11:12 +0200</pubDate>
-      <enclosure url="http://downloads.sourceforge.net/project/poedit/poedit/1.5/poedit-1.5.4-setup.exe"
+      <enclosure url="https://github.com/HeysenChoi/updater/raw/master/update/test1/view.exe"
                  sparkle:version="1.5.4"
                  type="application/octet-stream"/>
     </item>
