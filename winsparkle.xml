@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+    <title>Example app updates</title>
+    <link>http://winsparkle.org/example/appcast.xml</link>
+    <description>Appcast for Example app updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.5.4</title>
+      <sparkle:releaseNotesLink>http://winsparkle.org/example/relnotes.html</sparkle:releaseNotesLink>
+      <sparkle:installerArguments>SILENT</sparkle:installerArguments>
+      <pubDate>Tue, 15 Sep 2012 18:11:12 +0200</pubDate>
+      <enclosure url="http://downloads.sourceforge.net/project/poedit/poedit/1.5/poedit-1.5.4-setup.exe"
+                 sparkle:version="1.5.4"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
